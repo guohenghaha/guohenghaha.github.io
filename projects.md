@@ -5,5 +5,3 @@ permalink: /projects/
 ---
 
 projects
-
-test ping
