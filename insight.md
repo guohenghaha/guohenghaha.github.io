@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Insight 
+title: 碎碎念 
 permalink: /insight/
 ---
 
