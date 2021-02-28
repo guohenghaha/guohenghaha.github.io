@@ -10,4 +10,5 @@ permalink: /arts/
 
 - [ARTS-01](/arts-01)
 - [ARTS-02](/arts-02)
+- [ARTS-03](/arts-03)
 
