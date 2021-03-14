@@ -9,6 +9,7 @@ permalink: /arts/
 ### 2021-03
 
 - [ARTS-04](/arts-04)
+- [ARTS-05](/arts-05)
 
 ### 2021-02
 
