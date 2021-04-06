@@ -12,6 +12,7 @@ permalink: /arts/
 - [ARTS-05](/arts-05)
 - [ARTS-06](/arts-06)
 - [ARTS-07](/arts-07)
+- [ARTS-08](/arts-08)
 
 
 ### 2021-02
